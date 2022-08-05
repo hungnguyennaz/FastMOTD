@@ -42,8 +42,8 @@ dependencies {
     compileOnly("com.velocitypowered:velocity-proxy:3.1.2-SNAPSHOT")
     compileOnly("com.github.spotbugs:spotbugs-annotations:4.7.0")
     // Needs for some velocity methods.
-    compileOnly("io.netty:netty-codec:4.1.77.Final")
-    compileOnly("io.netty:netty-handler:4.1.77.Final")
+    compileOnly("io.netty:netty-codec:4.1.79.Final")
+    compileOnly("io.netty:netty-handler:4.1.79.Final")
 
     implementation("org.bstats:bstats-velocity:3.0.0")
 }
